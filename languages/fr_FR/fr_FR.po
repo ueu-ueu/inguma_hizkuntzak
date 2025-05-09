@@ -1,0 +1,2373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Klear-Public\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-21 10:04+0100\n"
+"PO-Revision-Date: 2025-03-27 14:14+0100\n"
+"Last-Translator: Uxune <u.martinez@ueu.org>\n"
+"Language-Team: Irontec-Klear <lander+klear@irontec.com>\n"
+"Language: eu_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;translate;plural:1,2\n"
+"X-Poedit-Basepath: /home/landerog/workspace/Inguma/inguma_berria\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: application\n"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/UeuSailaController.php:22
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/UeuSailaController.php:52
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/ProdukzioaController.php:113
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/ProdukzioaController.php:136
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/ProdukzioaController.php:191
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/StaticController.php:30
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/ErakundeaController.php:125
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/ErakundeaController.php:193
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/ErakundeaController.php:273
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EgileaController.php:161
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EgileaController.php:231
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EgileaController.php:322
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/JakintzaArloaController.php:22
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/FakultateaController.php:22
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/FakultateaController.php:52
+msgid "Page not found"
+msgstr "Page non trouvée"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:51
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:96
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:91
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:91
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:113
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:139
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzioa-taula.phtml:134
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:389
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:32
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:32
+msgid "Urtea"
+msgstr "Année"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:435
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:488
+msgid "Produkzio osoaren bilakaera"
+msgstr "Évolution de la variable de genre dans l’ensemble de la production"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:436
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:478
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:496
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:489
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:543
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:570
+msgid "urtea"
+msgstr "Année"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:437
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:461
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:479
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:497
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:490
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:516
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:544
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:571
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:322
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:18
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/person-list.phtml:85
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:7
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:69
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:78
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:6
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:114
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:127
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_z.phtml:68
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_db.phtml:59
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:54
+msgid "Produkzioa"
+msgstr "Documents"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:459
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:515
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:260
+msgid "Produkzio osoa jakintza arloka"
+msgstr ""
+"La variable de genre dans l’ensemble de la production par domaines de "
+"connaissance"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:477
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:542
+msgid "Idatzizko produkzioaren bilakaera"
+msgstr "Évolution de la production écrite"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:495
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:569
+msgid "Idatzizko produkzioaren bilakaera jakintza arloka"
+msgstr "Evolution de la production écrite par domaines de connaissance"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:515
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:596
+msgid "Idatzizko produkziora sareko lotura %tan"
+msgstr "Taux de disponibilité en réseau de la production écrite"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:516
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:597
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:43
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:43
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:81
+msgid "Produktu mota"
+msgstr "Classe de document"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:517
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:598
+msgid "Eskuragarritasun %"
+msgstr "% de disponibilité"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:520
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:601
+msgid "Eskuragarri"
+msgstr "Disponible"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/IndexController.php:520
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/GraphicController.php:602
+msgid "Ez-eskuragarri"
+msgstr "Indisponible"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/KontaktuaController.php:68
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/KontaktuaController.php:85
+msgid "Mezua bidali da"
+msgstr "Message envoyé"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/KontaktuaController.php:94
+msgid "Ezin izan da mezua behar bezala bidali"
+msgstr "Impossible d'envoyer le message"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:62
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:188
+msgid "Record not found. Could not delete."
+msgstr "Enregistrement non trouvé. Impossible de supprimer"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:75
+#, php-format
+msgid "Emailez jakinarazi nahi duzu \"%s\"?"
+msgstr "Voulez-vous le communiquer par e-mail  \"%s\"?"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:115
+#, php-format
+msgid "and %s more"
+msgstr "et %s plus"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:124
+#, php-format
+msgid "Jakinarazi %s"
+msgstr "Notifier  %s"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:133
+msgid "Cancel"
+msgstr "Annuler"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:136
+msgid "Jakinarazi"
+msgstr "Notifier  %s"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:213
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:295
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:310
+msgid "Could not email sending user: "
+msgstr "Il a été impossible d'envoyer l'email à l'utilisateur"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:222
+msgid "Could not delete record: "
+msgstr "Il a été impossible de supprimer l'enregistrement "
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:238
+#, php-format
+msgid "(%d) %s zuzen jakinarazita"
+msgstr "(%d) %s  Correctement notifié"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:240
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:24
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:24
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:92
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:243
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_z.phtml:28
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_z.phtml:48
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_z.phtml:53
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:145
+msgid "Egilea"
+msgstr "Auteur"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:286
+msgid "Record not found. Could not clone."
+msgstr "Enregistrement non trouvé. Impossible de cloner"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EmailController.php:321
+msgid "Close"
+msgstr "Fermer"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EgileaController.php:395
+msgid "Ziurtagiriaren eskaera bideratu da. Laster jasoko duzu zure e-postan"
+msgstr ""
+"Demande de certificat envoyé. Bientôt vous recevrez le certificat par votre "
+"e-mail"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/EgileaController.php:400
+msgid "Ziurtagiria bidaltzerakoan arazoren bat egon da. Barkatu eragozpenak"
+msgstr ""
+"Une erreur s'est produite lors de l'envoi du certificat. Désolé pour le "
+"désagrément"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/controllers/TwitterController.php:59
+msgid "Tweeter jarioa"
+msgstr "Twitter courant"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:33
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:33
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzioa-taula.phtml:111
+msgid "Izenburua"
+msgstr "Titre"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:46
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:72
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:46
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:72
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:84
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:172
+msgid "all"
+msgstr "Tout"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:47
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:47
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:85
+msgid "article"
+msgstr "Article"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:48
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:48
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:86
+msgid "introduction"
+msgstr "M.C.P"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:49
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:49
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:87
+msgid "translation"
+msgstr "Traduction"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:50
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:50
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:88
+msgid "book"
+msgstr "Livre"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:51
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:51
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:89
+msgid "phd"
+msgstr "Thèse doctorat"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:52
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:52
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:90
+msgid "research"
+msgstr "Project de recherche"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:53
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:53
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:91
+msgid "conference"
+msgstr "Conférence"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:54
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:54
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:92
+msgid "course"
+msgstr "Cours"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:55
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:55
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:93
+msgid "CourseSubject"
+msgstr "Sujet"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:64
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:64
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:102
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:114
+msgid "Jakintza-arloa"
+msgstr "Domaine de connaissance"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:81
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:81
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:181
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:200
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:460
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:88
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:88
+msgid "SHU"
+msgstr "CDU"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:93
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:93
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:115
+msgid "UrteHasiera"
+msgstr "de"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:112
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:112
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:137
+msgid "UrteBukaera"
+msgstr "à"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:147
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:147
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:191
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:177
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:316
+msgid "Erakundea"
+msgstr "Organisation"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:156
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:156
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:200
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/fakultatea/ikusi.phtml:25
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:44
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:44
+msgid "Fakultatea"
+msgstr "Faculté"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:165
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:165
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:209
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:48
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:48
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ueu-saila/ikusi.phtml:24
+msgid "Saila"
+msgstr "Département"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:174
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:174
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:68
+msgid "DokumentuEsteka"
+msgstr "Lien vers le document"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearch.php:187
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolr.php:187
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Search.php:31
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:216
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/PersonSearch.php:22
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/index.phtml:44
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/bilaketa-aurreratua.phtml:14
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/adituak.phtml:13
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/ziurtagiria.phtml:30
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:184
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:256
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:329
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:473
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:157
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratua.phtml:27
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratua.phtml:31
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:163
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:43
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:56
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/ziurtagiria.phtml:49
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:146
+msgid "Bilatu"
+msgstr "Rechercher"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Search.php:23
+msgid "Idatzi testua"
+msgstr "Écrire texte"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Search.php:49
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:52
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:135
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/aurreratua.phtml:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/index.phtml:45
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/bilaketa-aurreratua.phtml:15
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:165
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/index.phtml:15
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratua.phtml:14
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratua.phtml:20
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratua.phtml:51
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu.phtml:23
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu.phtml:27
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:44
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:166
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:168
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/index.phtml:50
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:75
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:8
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:49
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:167
+msgid "Bilaketa aurreratua"
+msgstr "Recherche avancée"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Contact.php:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:279
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:435
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:207
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:304
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:154
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:273
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/kontaktua/index.phtml:9
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:149
+msgid "Kontaktua"
+msgstr "Contact"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Contact.php:30
+msgid "Zure izen-abizenak"
+msgstr "Nom et prénom de l'auteur"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Contact.php:42
+msgid "Izena eta 1. abizena nahitaezkoak dira"
+msgstr "Nom et prénom nécessaire"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Contact.php:55
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi-z.phtml:16
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:14
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/fakultatea/ikusi.phtml:8
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ueu-saila/ikusi.phtml:8
+msgid "Telefonoa"
+msgstr "Téléphone"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Contact.php:67
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi-z.phtml:24
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:22
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/fakultatea/ikusi.phtml:16
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ueu-saila/ikusi.phtml:16
+msgid "E-posta"
+msgstr "E-mail"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Contact.php:89
+msgid "Gaia"
+msgstr "Sujet"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Contact.php:102
+msgid "Mezua"
+msgstr "Message"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Contact.php:181
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/kontaktua/index.phtml:89
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/contact-form.phtml:77
+msgid "Bidali"
+msgstr "Envoyer"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Contact.php:231
+msgid "Captcha hutsik"
+msgstr "Le captcha est vide"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Certificate.php:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Certificate.php:67
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/egile-list.phtml:107
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/person-list.phtml:115
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/person-list.phtml:125
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:120
+msgid "Ziurtagiria eskatu"
+msgstr "Demande de certificat"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Certificate.php:19
+msgid ""
+"Webgune honen erabiltzaileak hemen azaldutakoa ulertu eta borondatez "
+"onartzen du."
+msgstr "L'utilisateur de ce site comprend et accepte les conditions expliquées"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/Certificate.php:106
+msgid "Baldintzak onartzea nahitaezkoa da ziurtagiria jasotzeko"
+msgstr "Accepter les conditions pour obtenir un certificat"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/AdvancedSearchSolrBasic.php:60
+msgid "Gehitu iragazkia"
+msgstr "Ajouter de filtre"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/forms/PersonSearch.php:12
+msgid "Egilearen izen abizenak"
+msgstr "Nom et prénom de l'auteur"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:16
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:6
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:6
+msgid "Euskal komunitate zientifikoaren datu-basea"
+msgstr "Base de données de la communauté scientifique basque"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:240
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:356
+msgid "Inguma ziurtagiria"
+msgstr "Demande certificat"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:249
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:410
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:184
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/index.phtml:13
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/index.phtml:19
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:121
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:50
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:147
+msgid "Dokumentuak"
+msgstr "Lien vers le document"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:257
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:330
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:414
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:100
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:102
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:141
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:360
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:362
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:96
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:49
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:55
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:100
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:12
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:17
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_db.phtml:34
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:28
+msgid "Egileak"
+msgstr "Auteurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:265
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:338
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:418
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:12
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:17
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:53
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:286
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:285
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:568
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:208
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:51
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:93
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:95
+msgid "Erakundeak"
+msgstr "Organisations"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:267
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:341
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:421
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:16
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:41
+msgid "Estatistikak"
+msgstr "Statistiques"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:270
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:344
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:25
+msgid "Proiektuak"
+msgstr "Projets"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:276
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:432
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:195
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:299
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:117
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:136
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:268
+msgid "Ingumari buruz"
+msgstr "À propos de Inguma"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:429
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:191
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:294
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:112
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:131
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:263
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:44
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:40
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/kontaktua/index.phtml:8
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/ziurtagiria.phtml:8
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratua.phtml:12
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu.phtml:21
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/index.phtml:12
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:113
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/ziurtagiria.phtml:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_db.phtml:25
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ziurtagiria-eskatu.phtml:17
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:19
+msgid "Hasiera"
+msgstr "Principal"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:438
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:314
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:283
+msgid "Ohar legala"
+msgstr "Note légale"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:448
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:355
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:322
+msgid "Laguntzaileak"
+msgstr "Contributeurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout_last.phtml:467
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:330
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:299
+msgid "Babesleak"
+msgstr "Sponsors"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:200
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:122
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:141
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:94
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:134
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:354
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:89
+msgid "Datuak"
+msgstr "Données"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:309
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:278
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:258
+msgid "Ingumako datuak"
+msgstr "Données Inguma"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:336
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:361
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:304
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:327
+msgid "Eusko Jaurlaritza - Kultura Saila"
+msgstr "Gouvernement basque - département de la culture"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:342
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:367
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:310
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:333
+msgid "Bizkaiko Foru Aldundia"
+msgstr "Governement foral du Bizkaia"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:348
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:373
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:316
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:339
+msgid "Gipuzkoako Foru Aldundia"
+msgstr "Governement foral du Gipuzkoa"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:379
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:345
+msgid "Mondragon unibertsitatea"
+msgstr "Universités"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout5.phtml:387
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/layouts/scripts/layout.phtml:353
+msgid "OAI 2.0 sarbidea"
+msgstr ""
+"La base de données Inguma soutien <a href=\"http://www.openarchives.org"
+"\">OAI 2.0</a> , avec %s URL à  sa base."
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/OrganizationsLinks.php:12
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:13
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:13
+msgid "publisher"
+msgstr "Editeur"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/OrganizationsLinks.php:13
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:14
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:14
+msgid "magazine"
+msgstr "Magazine"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/OrganizationsLinks.php:14
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:15
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:15
+msgid "university"
+msgstr "Université"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/OrganizationsLinks.php:15
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:16
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:16
+msgid "other"
+msgstr "Autre"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:19
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:8
+msgid "Articles"
+msgstr "Articles"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:20
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:9
+msgid "Introductions"
+msgstr "Introductions"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:21
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:10
+msgid "Books"
+msgstr "Livres"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:22
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:11
+msgid "Translations"
+msgstr "Traductions"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:23
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:12
+msgid "PHDs"
+msgstr "Thèses doctorat"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:24
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:13
+msgid "Researchs"
+msgstr "Projects de recherche"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:25
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:14
+msgid "Subjects"
+msgstr "Sujets"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:26
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:15
+msgid "Courses"
+msgstr "Cours"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/TabsList.php:27
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/bilaketa-aukerak.phtml:16
+msgid "Conferences"
+msgstr "Conférence"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/helpers/EntityUrl.php:36
+msgid "Entitate mota ezezaguna:"
+msgstr "Inconnu classe d'entité"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:27
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:31
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:110
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:114
+msgid "Bilatu erakundea"
+msgstr "Recherche Organisations"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:63
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzioa-taula.phtml:5
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:67
+msgid "Zure bilaketa"
+msgstr "Votre reserche"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:104
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzioa-taula.phtml:70
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:99
+msgid "Erakutsi"
+msgstr "Montrer"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:151
+msgid "Erakundearen laburdura datu-basean"
+msgstr "Abréviation de l'organisation dans la base de données"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:152
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:63
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:70
+msgid "Erakundearen izena"
+msgstr "Nombre de la organización"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/index.phtml:154
+msgid "Dokumentu mota eta bildutakoa [zenbakia (urteak)]"
+msgstr "Type de document et contenu [nombre (ans)]"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi-z.phtml:12
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:10
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/fakultatea/ikusi.phtml:4
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ueu-saila/ikusi.phtml:4
+msgid "Helbidea"
+msgstr "Adresse"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi-z.phtml:20
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:18
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/fakultatea/ikusi.phtml:12
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ueu-saila/ikusi.phtml:12
+msgid "Webgunea"
+msgstr "Site web"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi-z.phtml:28
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:26
+msgid "ISSN"
+msgstr "ISSN"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi-z.phtml:32
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:30
+msgid "Hustutakoa"
+msgstr "Contenu"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:101
+msgid "Kontaktuan jarri"
+msgstr "Contact"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:147
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratua.phtml:62
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/index.phtml:61
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:180
+msgid "Iragazkiak erakutsi"
+msgstr "Montrer les filtres"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/erakundea/ikusi.phtml:161
+msgid "Aktibo dauden filtroak"
+msgstr "Des filtres activés"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:56
+msgid "Erakundeak bilatu..."
+msgstr "Organisations de recherche..."
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:62
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:69
+msgid "ErakundearenLaburduraDB"
+msgstr "Abreviatura de la organización en la base de datos"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:64
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/static/index.phtml:71
+msgid "DokumentuMotaHustutakoa"
+msgstr "Tipo de documento y contenido [número (años)]"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:7
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:7
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:6
+msgid "Orokorrak"
+msgstr "Général"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:10
+msgid "Azken urtean"
+msgstr "L'année dernière"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:15
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:15
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:14
+msgid "Azken hilabetean"
+msgstr "Mois dernier"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:81
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:74
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/product-list-solr.phtml:127
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/product-list.phtml:137
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/product-list.phtml:141
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:100
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:100
+msgid "Ikusi"
+msgstr "Voir"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:106
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:146
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:366
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:100
+msgid "Eurekin harremanetan jartzeko aukera duzun egile kopurua"
+msgstr "Quantité d'auteurs avec la possibilité de contacter"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:110
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:151
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:370
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:104
+msgid "Egileek eskatutako ziurtagiri kopurua"
+msgstr "Quantité de certificats demandés par auteurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:119
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:155
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:379
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:108
+msgid "Katalogatuko erreferentziak"
+msgstr "Références catalogués"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:122
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:143
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:262
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:290
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:158
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:170
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:260
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:291
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:382
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:403
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:544
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:571
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:111
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:122
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:183
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:214
+msgid "Guztira"
+msgstr "Tout"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:126
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:163
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:386
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:115
+msgid "Loturen bidez sarean kontsultagai dauden erreferentziak"
+msgstr "Références qui sont disponibles avec liens"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:139
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:167
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:399
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:119
+msgid "Idatzizko erreferentziak"
+msgstr "Références écrites"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:145
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:151
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:158
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:164
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:171
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:177
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:183
+msgid "Sarean kontsultagai"
+msgstr "Consultation en réseau"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:149
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:179
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:413
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:130
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:132
+msgid "Artikuluak"
+msgstr "Articles"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:156
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:188
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:422
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:138
+msgid "Liburuak"
+msgstr "Livres"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:162
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:197
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:431
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:146
+msgid "Itzulpenak"
+msgstr "Traductions"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:169
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:112
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:207
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:441
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:67
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:154
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:228
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:191
+msgid "H.A.A (Aipuak, liburu atalak eta hitzaurreak)"
+msgstr "M.C.P (Mentionne, chapitres et préfaces)"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:175
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:217
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:450
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:162
+msgid "Ikerkuntza-proiektuak"
+msgstr "Projects de recherche"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:181
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:226
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:459
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:170
+msgid "Doktorego-tesiak"
+msgstr "Thèse doctorat"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:193
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:237
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:474
+msgid "Idatzitako erreferentziak afiliaziozko"
+msgstr "Références écrites par filiation"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:212
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:495
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:120
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:271
+msgid "Gehiago ikusi"
+msgstr "Plus"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:217
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:499
+msgid "Gutxiago ikusi"
+msgstr "Voir moins"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:258
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:257
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:540
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:180
+msgid "Ahozko erreferentziak"
+msgstr "Références orales"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:266
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:264
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:548
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:187
+msgid "Ikastaroak"
+msgstr "Cours"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:270
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:268
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:552
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:191
+msgid "Hitzaldiak"
+msgstr "Conferences"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:274
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:272
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:556
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:195
+msgid "Irakasgaiak"
+msgstr "Sujets"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:294
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:294
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:575
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:217
+msgid "Unibertsitateak"
+msgstr "Universités"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:297
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:296
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:578
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:218
+msgid "Aldizkariak"
+msgstr "Magazines"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:300
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:298
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:581
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:219
+msgid "Argitaletxeak"
+msgstr "Éditeurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index.phtml:303
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:300
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:584
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:220
+msgid "Bestelakoak"
+msgstr "Autres"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:87
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:42
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:123
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:168
+msgid "Gehitutako azken erreferentziak"
+msgstr "Références ajoutés récemment"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:93
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:48
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:138
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:172
+msgid "Liburua"
+msgstr "Livre"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:97
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:52
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:153
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:176
+msgid "Artikulua"
+msgstr "Article"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:100
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:55
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:166
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:179
+msgid "Itzulpena"
+msgstr "Traduction"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:104
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:59
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/azken-produkzioa.phtml:51
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:201
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:183
+msgid "Ikerkuntza-proiektua"
+msgstr "Project de recherche"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:108
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:63
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:215
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:187
+msgid "Dotorego-tesia"
+msgstr "Thèse doctorat"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:116
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:71
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:242
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:195
+msgid "Ikastaroa"
+msgstr "Cours"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:120
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:75
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:255
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:199
+msgid "Hitzaldia"
+msgstr "Conference"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:124
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:79
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:268
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:203
+msgid "Irakasgaia"
+msgstr "Sujet"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:175
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:408
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:126
+msgid "Loturen bidez sarean kontsultagai dauden guztiak"
+msgstr "Tout qui es disponible avec liens"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:184
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:418
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:134
+msgid "Loturen bidez sarean kontsultagai dauden artikuluak"
+msgstr "Articles qui sont disponibles avec liens"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:193
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:427
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:142
+msgid "Loturen bidez sarean kontsultagai dauden liburuak"
+msgstr "Livres qui sont disponibles avec liens"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:202
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:436
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:150
+msgid "Lotura bidez sarean kontsultagai dauden itzulpenak"
+msgstr "Traductions qui sont disponibles avec liens"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:212
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:446
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:158
+msgid "Lotura bidez sarean kontsultagi dauden H.A.Ak"
+msgstr "M.C.Ps qui sont disponibles avec liens"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:222
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:455
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:166
+msgid "Lotura bidez sarean kontsultagi dauden ikerkuntza-proiektuak"
+msgstr "Projects de recherche qui sont disponibles avec liens"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:231
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:464
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:174
+msgid "Lotura bidez sarean kontsultagai dauden doktorego-tesiak"
+msgstr " Thèse doctorat qui sont disponibles avec liens"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:311
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:229
+msgid "Bisitak"
+msgstr "Visites"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:316
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:234
+msgid "Ezinezkoa da datu hauek berreskuratzea."
+msgstr "Impossible de récupérer des données"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:319
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:237
+msgid "Azken urteko bisita kopurua"
+msgstr "Visites l'an dernier au total"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:321
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:238
+msgid "Azken urteko bisitari kopurua"
+msgstr "Visiteurs l'an dernier au total"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:324
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:239
+msgid "Guztira bisita kopurua"
+msgstr "Visites au total"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:326
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:240
+msgid "Bisitarien lurraldea"
+msgstr "Nationalité des visiteurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:329
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:241
+msgid "Bisita bakoitzeko bataz besteko denbora"
+msgstr "Temps moyen par visite"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:332
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:243
+#, php-format
+msgid "%s minutu"
+msgstr "%s minute"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:332
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:243
+msgid "eta"
+msgstr "et"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:338
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:249
+#, php-format
+msgid "%s segundo"
+msgstr "%s seconde"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak/index_copy.phtml:343
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:252
+msgid "Bisita bakoitzeko bataz besteko ikusitako orrialde kopurua"
+msgstr "Pages vues en moyenne par visite"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/ingumako-datuak2/index.phtml:261
+msgid "Profilak"
+msgstr "Profil"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/kontaktua/index.phtml:14
+msgid "Kontaktu formularioa"
+msgstr "Formulaire de contact"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/kontaktua/index.phtml:15
+msgid "Jar zaitez gurekin kontaktuan"
+msgstr "Contactez nous"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/index.phtml:7
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/bilaketa-aurreratua.phtml:8
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:45
+msgid "Bilaketaren emaitzak"
+msgstr "Résultats de la recherche"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/index.phtml:42
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/bilaketa-aurreratua.phtml:12
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/adituak.phtml:11
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:155
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:160
+msgid "Beste bilaketa bat egin"
+msgstr "Effectuer une nouvelle recherche"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/index.phtml:98
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/bilaketa-aurreratua.phtml:37
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:224
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:241
+msgid "Ez da produkturik aurkitu"
+msgstr "Aucun résultat documents"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/bilaketa-aurreratua.phtml:9
+msgid "Bilaketa Aurreratua"
+msgstr "Recherche avancée"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/adituak.phtml:3
+msgid "Egileen bilaketaren emaitzak"
+msgstr "Résultats de recherche des auteurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/adituak.phtml:31
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/ziurtagiria.phtml:142
+msgid "Ez da egilerik aurkitu"
+msgstr "Sans résultats des auteurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/ziurtagiria.phtml:10
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/ziurtagiria.phtml:16
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/ziurtagiria.phtml:12
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ziurtagiria-eskatu.phtml:18
+msgid "Ziurtagiria"
+msgstr "Demande de certificat"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu/ziurtagiria.phtml:24
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/ziurtagiria.phtml:35
+msgid "Bilatu zure izena"
+msgstr "Votre nom"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/egile-list.phtml:15
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzio-list-solr.phtml:21
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/organization-list.phtml:13
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/product-list.phtml:19
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzio-list.phtml:19
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:22
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:22
+msgid "Alfabetikoki"
+msgstr "Alphabétiquement"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/egile-list.phtml:82
+msgid "Bai"
+msgstr "Envoyer"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/egile-list.phtml:85
+msgid "Ez"
+msgstr "Non"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzio-list-solr.phtml:17
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/product-list.phtml:15
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzio-list.phtml:15
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:18
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:18
+msgid "Data"
+msgstr "Date"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facet-iragazkiak.phtml:81
+msgid "Erakutsi gehiago"
+msgstr "Montrer plus"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/person-list.phtml:14
+msgid "authors"
+msgstr "Auteurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/person-list.phtml:91
+msgid "Azken produkzioa:"
+msgstr "Dernier document:"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/person-list.phtml:97
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:92
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:92
+msgid "Jakintza-arloak"
+msgstr "Domaine de connaissance"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/person-list.phtml:102
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_z.phtml:9
+msgid "Harremanetan jarri"
+msgstr "Contact"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzioa-taula.phtml:115
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:28
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:28
+msgid "Egilea(k)"
+msgstr "Auteur(s)"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzioa-taula.phtml:119
+msgid "type"
+msgstr "Type de document"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzioa-taula.phtml:123
+msgid "Jakintzak"
+msgstr "Domaine de connaissance"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/produkzioa-taula.phtml:130
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:40
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:40
+msgid "Erakundea(k)"
+msgstr "Organisations"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:18
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:82
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:173
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:80
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:181
+msgid "Iragazkiak"
+msgstr "Filtres"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:19
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilatu-emaitza.phtml:83
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:82
+msgid "Kendu guztiak"
+msgstr "Supprimer tous"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:65
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:608
+msgid "Aplikatu iragazkiak"
+msgstr "Appliquer des filtres"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:66
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:609
+msgid "Kendu iragazkiak"
+msgstr "Supprimer des filtres"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:171
+msgid "Jakintza arloak"
+msgstr "Domaine de connaissance"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:530
+msgid "Guztiak"
+msgstr "Tout"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/partials/facets-solr.phtml:544
+msgid "Dokumenturako esteka"
+msgstr "Lien vers le document"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratua.phtml:77
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/index.phtml:73
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:195
+msgid "Aktibo dauden iragazkiak"
+msgstr "Des filtres actifs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/bilatu-solr/bilaketa-aurreratuaZ.phtml:50
+msgid "Zure bilaketa:"
+msgstr "Votre recherche"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/denak.phtml:1
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/denak.phtml:1
+msgid "Produkzio denak"
+msgstr "Tout les documents"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:52
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:52
+msgid "Zenbakia"
+msgstr "Numéro"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:56
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:56
+msgid "Jatorrizko izenburua"
+msgstr "Titre original"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:60
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:60
+msgid "Jatorrizko egilea"
+msgstr "Auteur original"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:68
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:68
+msgid "Hasiera-orrialdea"
+msgstr "Première page"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:72
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:72
+msgid "Amaiera-orrialdea"
+msgstr "Dernier page"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:76
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:76
+msgid "Iraupena"
+msgstr "Durée"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:80
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:80
+msgid "Zikloa"
+msgstr "Cycle"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:84
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:84
+msgid "ISBN"
+msgstr "ISBN"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi-z.phtml:96
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/produkzioa/ikusi.phtml:96
+msgid "DOI"
+msgstr "DOI"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:16
+msgid "Egile"
+msgstr "Auteur"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:22
+msgid "Argitalpen"
+msgstr "Éditeurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:28
+msgid "Erakunde"
+msgstr "Organisation"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index.phtml:91
+msgid "UEUren albisteak"
+msgstr "Nouvelles de l’UEU"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:7
+msgid "Authors"
+msgstr "Auteurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:66
+msgid "Eskatu ziurtagiria"
+msgstr "Demande certificat"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:72
+msgid "Kazetariak"
+msgstr "Journalistes"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:82
+msgid "Bilatu adituak"
+msgstr "Recherche experts"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:145
+msgid "Artikulu"
+msgstr "Article"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:150
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:159
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:148
+msgid "Artizarra"
+msgstr "Artizarra"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/index_back.phtml:217
+msgid "Albisteak"
+msgstr "Nouvelles"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/adituak.phtml:17
+msgid ""
+"Formulario honen bidez, egileak azkar bilatzeko eta haiekin harremanetan "
+"jartzeko modu azkar bat eskaintzen dizuegu"
+msgstr ""
+"Avec ce formulaire, nous vous proposons une manière simple de rechercher et "
+"contacter avec les auteurs"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/index/ziurtagiria.phtml:25
+msgid "Ziurtagiria eskatu azalpena"
+msgstr "Demande de certificat. Explication"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_z.phtml:73
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_db.phtml:64
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:59
+msgid "Ataria"
+msgstr "Portail"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_z.phtml:81
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_db.phtml:72
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:67
+msgid "ORCiD"
+msgstr "ORCiD"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_z.phtml:88
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_db.phtml:79
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:74
+msgid "Affiliations"
+msgstr "Nouvelles "
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_z.phtml:95
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi_db.phtml:86
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:81
+msgid "Kanpo produkzioa"
+msgstr "Documents-extérieur"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:25
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:29
+msgid "Bilatu egileak"
+msgstr "Recherche authors"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:146
+msgid "Azken dokumentua"
+msgstr "Document final"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/index.phtml:177
+msgid "Filiazioak"
+msgstr "Nouvelles"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ziurtagiria-eskatu.phtml:41
+msgid ""
+"Ziurtagiria eskaera eginz duzu. Prozesua burutzeko irakurri testua, onartu "
+"baldintza eta sartu agertzen zaizun kodea kutxatilan mesedez"
+msgstr ""
+"Vous avez demandé le certificat. Pour terminer. lire le texte, acceptez les "
+"termes et entrez le code"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/contact-form.phtml:11
+msgid "Jar zaitez egilearekin kontaktuan"
+msgstr "Contacter l'auteur"
+
+#: /home/kudeatzailea/docker_proiektuak/inguma_itxuraBerria/inguma/web/inguma/application/views/scripts/egilea/ikusi.phtml:141
+msgid "Bilatu dokumentuak"
+msgstr "Recherche documents"
+
+msgid "Type"
+msgid_plural "Types"
+msgstr[0] "Classe"
+msgstr[1] "Classes"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Email"
+msgid_plural "Emails"
+msgstr[0] "Email"
+msgstr[1] "Emails"
+
+msgid "Email address"
+msgid_plural "Email addresses"
+msgstr[0] "E-mail"
+msgstr[1] "E-mails"
+
+msgid "Pass"
+msgstr "Mot de passe"
+
+msgid "Password"
+msgid_plural "Passwords"
+msgstr[0] "Mot de passe"
+msgstr[1] "Mots de passe"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Utilisateur"
+msgstr[1] "Utilisateurs"
+
+msgid "Name"
+msgid_plural "Names"
+msgstr[0] "Prénom"
+msgstr[1] "Prénoms"
+
+msgid "Surname"
+msgid_plural "Surnames"
+msgstr[0] "Nom"
+msgstr[1] "Noms"
+
+msgid "FirstName"
+msgstr "Prénom"
+
+msgid "Firstname"
+msgstr "Prénom"
+
+msgid "First name"
+msgstr "Prénom"
+
+msgid "LastName"
+msgstr "Nom"
+
+msgid "Lastname"
+msgstr "Nom"
+
+msgid "Last name"
+msgstr "Nom"
+
+msgid "PhoneNumber"
+msgid_plural "PhoneNumbers"
+msgstr[0] "Téléphone"
+msgstr[1] "Téléphones"
+
+msgid "Phonenumber"
+msgid_plural "Phonenumbers"
+msgstr[0] "Téléphone"
+msgstr[1] "Téléphones"
+
+msgid "Phone number"
+msgid_plural "Phone numbers"
+msgstr[0] "Téléphone"
+msgstr[1] "Téléphones"
+
+msgid "Address"
+msgid_plural "Addresses"
+msgstr[0] "Addresse"
+msgstr[1] "Addresses"
+
+msgid "Street"
+msgid_plural "Streets"
+msgstr[0] "Rue"
+msgstr[1] "Rues"
+
+msgid "PostalCode"
+msgid_plural "PostalCodes"
+msgstr[0] "Code postal"
+msgstr[1] "Codes postaux"
+
+msgid "Postalcode"
+msgid_plural "Postalcodes"
+msgstr[0] "Code postal"
+msgstr[1] "Codes postaux"
+
+msgid "Postal code"
+msgid_plural "Postal codes"
+msgstr[0] "Code postal"
+msgstr[1] "Codes postaux"
+
+msgid "ZipCode"
+msgid_plural "ZipCodes"
+msgstr[0] "Code postal"
+msgstr[1] "Codes postaux"
+
+msgid "Zipcode"
+msgid_plural "Zipcodes"
+msgstr[0] "Code postal"
+msgstr[1] "Codes postaux"
+
+msgid "Zip code"
+msgid_plural "Zip codes"
+msgstr[0] "Code postal"
+msgstr[1] "Codes postaux"
+
+msgid "Province"
+msgid_plural "Provinces"
+msgstr[0] "Province"
+msgstr[1] "Provinces"
+
+msgid "City"
+msgid_plural "Cities"
+msgstr[0] "Ville"
+msgstr[1] "Villes"
+
+msgid "State"
+msgid_plural "States"
+msgstr[0] "État"
+msgstr[1] "États"
+
+msgid "Country"
+msgid_plural "Countries"
+msgstr[0] "Pays"
+msgstr[1] "Pays"
+
+msgid "File"
+msgid_plural "Files"
+msgstr[0] "Ficher"
+msgstr[1] "Fichers"
+
+msgid "Path"
+msgid_plural "Paths"
+msgstr[0] "Route"
+msgstr[1] "Routes"
+
+msgid "Size"
+msgid_plural "Sizes"
+msgstr[0] "Taille"
+msgstr[1] "Tailles"
+
+msgid "FileSize"
+msgstr "Taille ficher"
+
+msgid "Filesize"
+msgstr "Taille ficher"
+
+msgid "File size"
+msgstr "Taille ficher"
+
+msgid "FilePath"
+msgstr "Route ficher"
+
+msgid "Filepath"
+msgstr "Ficher route"
+
+msgid "File path"
+msgstr "Ficher route"
+
+msgid "MimeType"
+msgid_plural "MimeTypes"
+msgstr[0] "Classe ficher"
+msgstr[1] "Classe fichers"
+
+msgid "Mime type"
+msgid_plural "Mime types"
+msgstr[0] "Classe ficher"
+msgstr[1] "Classe fichers"
+
+msgid "BaseName"
+msgstr "Nom"
+
+msgid "Base name"
+msgstr "Nom"
+
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Image"
+msgstr[1] "Images"
+
+msgid "ImageSize"
+msgstr "Taille image"
+
+msgid "Imagesize"
+msgstr "Taille image"
+
+msgid "Image size"
+msgstr "Taille image"
+
+msgid "ImagePath"
+msgstr "Route image"
+
+msgid "Imagepath"
+msgstr "Route image"
+
+msgid "Image path"
+msgstr "Route image"
+
+msgid "Picture"
+msgid_plural "Pictures"
+msgstr[0] "Photo"
+msgstr[1] "Photos"
+
+msgid "PictureSize"
+msgstr "Taille photo"
+
+msgid "Picturesize"
+msgstr "Taille photo"
+
+msgid "Picture size"
+msgstr "Taille photo"
+
+msgid "PicturePath"
+msgstr "Route photo"
+
+msgid "Picturepath"
+msgstr "Route photo"
+
+msgid "Picture path"
+msgstr "Route photo"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Status"
+msgid_plural "Statuses"
+msgstr[0] "État"
+msgstr[1] "États"
+
+msgid "CreatedOn"
+msgstr "Créé sur"
+
+msgid "Createdon"
+msgstr "Établi"
+
+msgid "Created on"
+msgstr "Créé sur"
+
+msgid "UpdatedOn"
+msgstr "Actualisé"
+
+msgid "Updatedon"
+msgstr "Actualisé"
+
+msgid "Updated on"
+msgstr "Actualisé"
+
+msgid "StartTime"
+msgstr "Heure de début"
+
+msgid "Starttime"
+msgstr "Heure de début"
+
+msgid "Start time"
+msgstr "Heure de début"
+
+msgid "EndTime"
+msgstr "Heure de Fin"
+
+msgid "Endtime"
+msgstr "Heure de Fin"
+
+msgid "End time"
+msgstr "Heure de Fin"
+
+msgid "Start"
+msgstr "Principal"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Date"
+msgid_plural "Dates"
+msgstr[0] "Dates"
+msgstr[1] "Dates"
+
+msgid "Time"
+msgid_plural "Times"
+msgstr[0] "Temp"
+msgstr[1] "Temps"
+
+msgid "Interval"
+msgid_plural "Intervals"
+msgstr[0] "Intervalle"
+msgstr[1] "Intervalles"
+
+msgid "Identifier"
+msgid_plural "Identifiers"
+msgstr[0] "Identificateur"
+msgstr[1] "Identificateurs"
+
+msgid "Iden"
+msgid_plural "Idens"
+msgstr[0] "Identificateur"
+msgstr[1] "Identificateurs"
+
+msgid "Order"
+msgid_plural "Orders"
+msgstr[0] "Ordre"
+msgstr[1] "Ordres"
+
+msgid "Value"
+msgid_plural "Values"
+msgstr[0] "Valeur"
+msgstr[1] "Valeurs"
+
+msgid "Title"
+msgid_plural "Titles"
+msgstr[0] "Titre"
+msgstr[1] "Titres"
+
+msgid "Subtitle"
+msgid_plural "Subtitles"
+msgstr[0] "Sous-titre"
+msgstr[1] "Sous-titres"
+
+msgid "Intro"
+msgid_plural "Intros"
+msgstr[0] "Introduction"
+msgstr[1] "Introductions"
+
+msgid "Introduction"
+msgid_plural "Introductions"
+msgstr[0] "Introduction"
+msgstr[1] "Introductions"
+
+msgid "Description"
+msgid_plural "Descriptions"
+msgstr[0] "Description"
+msgstr[1] "Descriptions"
+
+msgid "Text"
+msgid_plural "Texts"
+msgstr[0] "Texte"
+msgstr[1] "Textes"
+
+msgid "News"
+msgid_plural "News(s)"
+msgstr[0] "Nouvelle"
+msgstr[1] "Nouvelles"
+
+msgid "Subject"
+msgid_plural "Subjects"
+msgstr[0] "Sujet"
+msgstr[1] "Sujets"
+
+msgid "Message"
+msgid_plural "Messages"
+msgstr[0] "Message"
+msgstr[1] "Messages"
+
+msgid "Section"
+msgid_plural "Sections"
+msgstr[0] "Section"
+msgstr[1] "Sections"
+
+msgid "Content"
+msgid_plural "Contents"
+msgstr[0] "Teneur"
+msgstr[1] "Teneurs"
+
+msgid "Html"
+msgstr "Html"
+
+msgid "Website"
+msgid_plural "Websites"
+msgstr[0] "Site web"
+msgstr[1] "Sites web"
+
+msgid "Url"
+msgid_plural "Urls"
+msgstr[0] "Url"
+msgstr[1] "Urls"
+
+msgid "Link"
+msgid_plural "Links"
+msgstr[0] "Lien"
+msgstr[1] "Liens"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Other"
+msgid_plural "Others"
+msgstr[0] "Autre"
+msgstr[1] "Autres"
+
+msgid "Price"
+msgid_plural "Prices"
+msgstr[0] "Prix"
+msgstr[1] "Prix"
+
+msgid "Quantity"
+msgid_plural "Quantities"
+msgstr[0] "Quantité"
+msgstr[1] "Quantités"
+
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] "Catégorie"
+msgstr[1] "Catégories"
+
+msgid "Theme"
+msgid_plural "Themes"
+msgstr[0] "Thème"
+msgstr[1] "Thèmes"
+
+msgid "Template"
+msgid_plural "Templates"
+msgstr[0] "E-mail modèle"
+msgstr[1] "E-mail modèles"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Off"
+msgstr "Désactivé"
+
+msgid "On"
+msgstr "Activé"
+
+msgid "Unasigned"
+msgstr "Non affecté"
+
+msgid "Error"
+msgid_plural "Errors"
+msgstr[0] "Erreur"
+msgstr[1] "Erreurs"
+
+msgid "Success"
+msgstr "Succés"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Public"
+msgid_plural "Publics"
+msgstr[0] "Public"
+msgstr[1] "Public"
+
+msgid "Private"
+msgid_plural "Privates"
+msgstr[0] "Privé"
+msgstr[1] "Privés"
+
+msgid "Visibility"
+msgid_plural "Visibilities"
+msgstr[0] "Visibilité"
+msgstr[1] "Visibilités"
+
+msgid "Upload file"
+msgid_plural "Upload files"
+msgstr[0] "Télécharger ficher"
+msgstr[1] "Télécharger fichers"
+
+msgid "Download"
+msgid_plural "Downloads"
+msgstr[0] "Décharge"
+msgstr[1] "Décharges"
+
+msgid "Download file"
+msgid_plural "Download files"
+msgstr[0] "Télécharger fichier"
+msgstr[1] "Télécharger fichiers"
+
+msgid "List of %s"
+msgstr "Liste des %s"
+
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#, fuzzy
+msgid "List of %s %2s"
+msgstr "Liste des %s"
+
+#, fuzzy
+msgid "Edit %s %2s"
+msgstr "Modifier %s"
+
+msgid "Add %s"
+msgstr "Ajouter %s"
+
+msgid "Delete %s"
+msgstr "Supprimer %s"
+
+msgid "Do you want to delete this %s?"
+msgid_plural "Do you want to delete these %s?"
+msgstr[0] "Voulez-vous supprimer cette %s?"
+msgstr[1] "Voulez-vous supprimer ces %s?"
+
+msgid "Option"
+msgid_plural "Options"
+msgstr[0] "Option"
+msgstr[1] "Options"
+
+msgid "Setting"
+msgid_plural "Settings"
+msgstr[0] "paramètre"
+msgstr[1] "paramÃ¨tres"
+
+msgid "Main management"
+msgstr "Gestion principal"
+
+msgid "Test"
+msgid_plural "Tests"
+msgstr[0] "Test"
+msgstr[1] "Test"
+
+msgid "field"
+msgid_plural "fields"
+msgstr[0] "Domaine"
+msgstr[1] "Domaines"
+
+msgid "note"
+msgid_plural "notes"
+msgstr[0] "Note"
+msgstr[1] "Notes"
+
+msgid "tag"
+msgid_plural "tags"
+msgstr[0] "Étiquette"
+msgstr[1] "Ã‰tiquettes"
+
+msgid "src-line"
+msgstr "src-line"
+
+msgid "Access denied"
+msgstr "Accès refusé"
+
+msgid "Insert your username"
+msgstr "Entrez votre nom d'utilisateur"
+
+msgid "Insert your username or email address"
+msgstr "Insérer votre nom d'utilisateur ou e-mail"
+
+msgid "Eskuratu ezazu hemen zure ziurtagiria"
+msgstr "Obtenir votre certificat ici"
+
+msgid "Egileekin harremanetan jartzeko era zuzena"
+msgstr "Manière directe à  contacter auteurs"
+
+msgid "%s bisita"
+msgstr "%s visites"
+
+msgid "%s reference"
+msgid_plural "%s references"
+msgstr[0] "%s Référence "
+msgstr[1] "%s Références"
+
+msgid "artikulu %d"
+msgid_plural "%d artikulu"
+msgstr[0] "Article %d"
+msgstr[1] "%d Articles"
+
+msgid "Euskal komunitate zientifikoaren datu-basea."
+msgstr "Base de données de la communauté scientifique basque"
+
+msgid "%1$s egile"
+msgstr "%1$s auteurs"
+
+msgid "%1$s liburu"
+msgstr "%1$s livres"
+
+msgid "eta %1$s artikulu."
+msgstr "et %1$s articles"
+
+#, fuzzy
+msgid "External reference"
+msgid_plural "External references"
+msgstr[0] "%s Référence "
+msgstr[1] "%s Références"
+
+#, fuzzy
+msgid "Options"
+msgstr "Option"
+
+#, fuzzy
+msgid "Course"
+msgid_plural "Courses"
+msgstr[0] "Cours"
+msgstr[1] "Cours"
+
+#, fuzzy
+msgid "You want to delete this %s?"
+msgstr "Voulez-vous supprimer cette %s?"
+
+#, fuzzy
+msgid "Conference"
+msgid_plural "Conferences"
+msgstr[0] "Conférence"
+msgstr[1] "Conférence"
+
+#, fuzzy
+msgid "Book"
+msgid_plural "Books"
+msgstr[0] "Livres"
+msgstr[1] "Livres"
+
+#, fuzzy
+msgid "Production"
+msgid_plural "Productions"
+msgstr[0] "Introduction"
+msgstr[1] "Introductions"
+
+#, fuzzy
+msgid "Knowledge area"
+msgid_plural "Knowledge areas"
+msgstr[0] ""
+"#-#-#-#-#  6extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  7extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  9extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  10extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr[1] ""
+"#-#-#-#-#  6extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  7extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  9extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#, fuzzy
+msgid "PHD"
+msgid_plural "PHDs"
+msgstr[0] "Thèses doctorat"
+msgstr[1] "Thèses doctorat"
+
+#, fuzzy
+msgid "Organization"
+msgid_plural "Organizations"
+msgstr[0] "Traduction"
+msgstr[1] "Traduction"
+
+#, fuzzy
+msgid "Web section"
+msgid_plural "Web sections"
+msgstr[0] "Section"
+msgstr[1] "Sections"
+
+#, fuzzy
+msgid "%s(r)en Kanpo Produkzioak"
+msgstr "Documents-extérieur"
+
+#, fuzzy
+msgid "Article"
+msgid_plural "Articles"
+msgstr[0] "Articles"
+msgstr[1] "Articles"
+
+#, fuzzy
+msgid "Voice Productions"
+msgstr "M.C.P"
+
+#, fuzzy
+msgid "Course subject"
+msgid_plural "Course subjects"
+msgstr[0] "Sujet"
+msgstr[1] "Sujet"
+
+#, fuzzy
+msgid "Write Productions"
+msgstr "M.C.P"
+
+#, fuzzy
+msgid "Translation"
+msgid_plural "Translations"
+msgstr[0] "Traductions"
+msgstr[1] "Traductions"
+
+#, fuzzy
+msgid "Research"
+msgid_plural "Researchs"
+msgstr[0] "Projects de recherche"
+msgstr[1] "Projects de recherche"
+
+#, fuzzy
+msgid "Email template"
+msgid_plural "Email templates"
+msgstr[0] "E-mail modèle"
+msgstr[1] "E-mail modèles"
+
+#, fuzzy
+msgid "Web"
+msgstr "Site web"
+
+#, fuzzy
+msgid "CleanName"
+msgstr "Prénom"
+
+#, fuzzy
+msgid "subject"
+msgstr "Sujet"
+
+#, fuzzy
+msgid "OrganizationId"
+msgstr "Traduction"
+
+#, fuzzy
+msgid "Created On"
+msgstr "Créé sur"
+
+#, fuzzy
+msgid "Last modified"
+msgstr "Azken aldaketa"
+
+#, fuzzy
+msgid "First page"
+msgstr "Lehen orrialdea"
+
+#, fuzzy
+msgid "Last page"
+msgstr "Azken orrialdea"
+
+#, fuzzy
+msgid "Book title"
+msgstr "Izenburua"
+
+#, fuzzy
+msgid "Writer name"
+msgstr "Idazlea"
+
+#, fuzzy
+msgid "Duration"
+msgstr "Traduction"
+
+#, fuzzy
+msgid "UEU Saila"
+msgstr "Département"
+
+#, fuzzy
+msgid "ProductionId"
+msgstr "Introduction"
+
+#, fuzzy
+msgid "CleanTitle"
+msgstr "Titre"
+
+#, fuzzy
+msgid "SecondSurname"
+msgstr "Nom"
+
+#, fuzzy
+msgid "Product Count"
+msgstr "Classe de document"
+
+#, fuzzy
+msgid "CategoryId"
+msgstr "Catégorie"
+
+#, fuzzy
+msgid "StartDt"
+msgstr "Principal"
+
+#, fuzzy
+msgid "Clean name"
+msgstr "Nom"
+
+#, fuzzy
+msgid "Organization id"
+msgstr "Traduction"
+
+#, fuzzy
+msgid "Production id"
+msgstr "Introduction"
+
+#, fuzzy
+msgid "Second surname"
+msgstr "Nom"
+
+#, fuzzy
+msgid "Category id"
+msgstr "Catégorie"
+
+#, fuzzy
+msgid "Start dt"
+msgstr "Heure de début"
+
+msgid "Inguma datuetan"
+msgstr "Inguma dans les données"
+
+msgid "Datuak grafikoetan"
+msgstr "Données dans les graphiques"
+
+msgid "Produkzio kopurua"
+msgstr "Numéro de production"
+
+msgid "%m minutu eta %s segundo"
+msgstr "%m minutes %s secondes"
+
+#, fuzzy
+msgid "Ziurtagiri kopurua"
+msgstr "Demande de certificat"
+
+#, fuzzy
+msgid "Zenbat ikastaro"
+msgstr "NumÃ©ro"
+
+#, fuzzy
+msgid "Zenbat hitzaldi"
+msgstr "NumÃ©ro"
+
+#, fuzzy
+msgid "Erakundeak guztira"
+msgstr "Organisation"
+
+#, fuzzy
+msgid "Azken gehitutako produkzioak"
+msgstr "Dernier document:"
+
+msgid "Prev"
+msgstr "Atzera"
+
+msgid "Next"
+msgstr "Aurrera"
+
+msgid "Produktu-mota"
+msgstr "Produkzio-mota"
+
+msgid "Mota"
+msgstr "Erakunde-mota"
+
+msgid "Produkzioak ikusi"
+msgstr "Produkzioak ikusi"
+
+msgid "Egilearen produkzioa ikusi"
+msgstr "Egilearen produkzioa ikusi"
+
+msgid "Other data"
+msgstr "Bestelako datuak"
+
+msgid "Others"
+msgstr "Bestelakoak"
+
+msgid "Users"
+msgstr "Erabiltzaileak"
+
+msgid "Sections"
+msgstr "Atalak"
